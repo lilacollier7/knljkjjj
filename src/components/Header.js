@@ -1,10 +1,10 @@
 // Import Assets
-import profile from '../assets/profile.gif';
+import profile from '../assets/profile.webp';
 
 const Header = () => {
     return (
         <section className='header'>
-            <img src={profile} alt="Rons Basement" />
+            <img src={profile} alt="Grant Cardone" />
 
             <div className='header__content'>
                 <h1>Welcome to Grant Cardone</h1>

@@ -1,5 +1,5 @@
 // Import Assets
-import profile from '../assets/profile.gif';
+import profile from '../assets/profile.webp';
 
 const About = () => {
     return (
