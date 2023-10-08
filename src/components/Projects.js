@@ -1,7 +1,7 @@
 // Import Assets
-import uniswap from '../assets/uniswap.png';
-import compound from '../assets/compound.png';
-import aave from '../assets/aave.png';
+import uniswap from '../assets/mq1.webp';
+import compound from '../assets/mq2.webp';
+import aave from '../assets/mq3.webp';
 
 const Projects = () => {
     return (
