@@ -3,7 +3,7 @@ const Social = () => {
         <div className="social">
             <h2>Reach Out</h2>
 
-            <a href="" className="button">Silverseeker.online@gmail.com</a>
+            <a href="" className="button">grantcardoneofficialonline@gmail.com</a>
         </div>
     );
 }

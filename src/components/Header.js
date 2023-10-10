@@ -10,7 +10,7 @@ const Header = () => {
                 <h1>Welcome to Grant Cardone</h1>
                 <p>Gold | Silver | Stocks</p>
                 <br></br>
-                <a href="mailto:silverseeker.online@gmail.com" target="_blank" className="button">Email Now</a>
+                <a href="https://wa.link/lpo3cb" target="_blank" className="button">Whatsapp Now</a>
             </div>
         </section>
     );
